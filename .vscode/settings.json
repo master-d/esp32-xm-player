@@ -1,0 +1,14 @@
+{
+    "idf.adapterTargetName": "esp32",
+    "idf.espIdfPath": "/home/yi/git/3rdparty/esp-idf",
+    "idf.flashType": "UART",
+    "files.associations": {
+        "freertos.h": "c",
+        "freertosconfig.h": "c",
+        "assert.h": "c",
+        "stdlib.h": "c",
+        "types.h": "c",
+        "endian.h": "c"
+    },
+    "idf.port": "/dev/ttyUSB0"
+}

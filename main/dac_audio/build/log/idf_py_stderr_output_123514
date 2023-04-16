@@ -1,0 +1,5 @@
+/tmp/kconfgen_tmpm40herwh:70: warning: malformed string literal in assignment to SOC_BROWNOUT_RESET_SUPPORTED (defined at /home/yi/git/3rdparty/esp-idf/./components/soc/esp32/include/soc/Kconfig.soc_caps.in:6). Assignment ignored.
+/tmp/kconfgen_tmpm40herwh:179: warning: '0x1FFFFF' is not a valid value for the bool symbol SOC_TOUCH_PAD_THRESHOLD_MAX (defined at /home/yi/git/3rdparty/esp-idf/./components/soc/esp32/include/soc/Kconfig.soc_caps.in:622). Assignment ignored.
+/tmp/kconfgen_tmpm40herwh:217: warning: '3' is not a valid value for the bool symbol SOC_EFUSE_SECURE_BOOT_KEY_DIGESTS (defined at /home/yi/git/3rdparty/esp-idf/./components/soc/esp32/include/soc/Kconfig.soc_caps.in:710). Assignment ignored.
+Compiler supported targets: xtensa-esp32-elf
+
